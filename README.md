@@ -1,4 +1,3 @@
-open-face-poker-server
-======================
+# Open Face Poker server
 
-Game server that works with the open face poker client
+Manages open face poker games
